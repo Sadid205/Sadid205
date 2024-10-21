@@ -18,6 +18,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sadid205&icon=8&color=0)](https://visitcount.itsvg.in)
-![snake gif](https://github.com/Sadid205/Sadid205/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
