@@ -1,28 +1,106 @@
 ![Github LinkedInBanner](https://github.com/user-attachments/assets/1a7d92f6-8ac9-4a51-a5c5-ab231bc17432)
 
-## About Me
-<h2 align="center">About Me</h2>
-<p align="center">
-Hi, I am Md. Abdullah Al Sadid, a Python developer from Harinakundu, Jhenaidah, Bangladesh. I began my programming journey about three years ago. Throughout my career, I have worked with several programming languages. Although I started with JavaScript, I later had the opportunity to work with C, C++, and Python. Due to my love for programming, I gained knowledge in Data Structures, Algorithms, and OOP. I have solved problems on various online platforms and continue to do so. I have also worked on several projects, where I used Python's popular framework, Django, for the backend, and JavaScript's renowned library, React, for the frontend. I am still working on these projects while adopting new technologies.
-</p>
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.abdullahalsadid19) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md.abdullahalsadid19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-sadid) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@abdullahalsadid1914) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abdullahalsadid1914) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Abdullah-Al-Sadid-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Agreeable_Road_334) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Sadid58827821) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abdullahalsadid3135) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sadid205) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@md_abdullah_al_sadid19) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sadid205&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sadid205&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadid205&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sadid205&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Hi 👋, I'm Md. Abdullah Al Sadid</h1>
+<h3 align="center">Software Engineer | Full Stack Developer (Django • React • Next.js • MERN)</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sadid205&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I am a passionate **Software Engineer** with experience in building scalable, production-ready applications.
+
+I have developed multiple real-world systems including **real-time applications, ERP systems, and POS platforms**, focusing on performance, scalability, and clean architecture.
+
+💡 I specialize in:
+- Backend: **Django & Django REST Framework**
+- Frontend: **React, Next.js (TypeScript)**
+- System Design: **Scalable architecture, role-based systems, API design**
+- DevOps: **Docker, CI/CD, deployment pipelines**
+
+⚡ I also have hands-on experience with the **MERN stack (MongoDB, Express, React, Node.js)** and enjoy working across different ecosystems.
+
+🧠 Strong foundation in:
+- **Data Structures & Algorithms (DSA)**
+- **Object-Oriented Programming (OOP)**
+- **Problem Solving (Competitive & Practical)**
+
+🎯 Goal: To become an expert in **System Design, Microservices, and AI-powered applications**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+- Python, JavaScript, TypeScript, C, C++
+
+### ⚙️ Backend
+- Django, Django REST Framework
+- Node.js, Express (MERN)
+- Authentication (JWT, Google OAuth)
+- WebSocket (Django Channels)
+
+### 🎨 Frontend
+- React.js, Next.js (App Router)
+- Tailwind CSS, Bootstrap
+
+### 🗄️ Database & Cache
+- PostgreSQL, MySQL, SQLite
+- MongoDB (MERN)
+- **Redis (Caching, Channel Layer, Performance Optimization)**
+
+### 🚀 DevOps & Tools
+- Docker & Docker Compose
+- Git & GitHub Actions (CI/CD)
+- Nginx, Linux Server
+- Vercel, Render
+
+---
+
+## 💼 Featured Projects
+
+### 🏏 Cricket Scorer System (Real-time)
+- Ball-by-ball live scoring system
+- WebSocket with Django Channels & Redis
+- Real-time stats (strike rate, run rate, economy)
+
+### 🏫 School ERP System
+- Multi-role system (Admin, Teacher, Student)
+- PDF & Excel report generation
+- Docker-based monorepo + CI/CD pipeline
+
+### 🛒 POS & Inventory System
+- Role-based architecture (Admin, Cashier, Manager)
+- Inventory, Sales, Reporting modules
+- Redis caching for performance optimization
+
+---
+
+## 📈 Current Focus
+
+- System Design & Scalable Architecture
+- Microservices (Django + Express)
+- Performance Optimization using Redis
+- AI Integration in Real-world Systems
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/abdullah-al-sadid  
+- GitHub: https://github.com/Sadid205  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Sadid205&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sadid205&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadid205&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=Sadid205&icon=5&color=6)
